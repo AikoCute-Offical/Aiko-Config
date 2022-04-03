@@ -53,4 +53,4 @@ Nodes:
         Email: test@me.com
         DNSEnv: # DNS ENV option used by DNS provider
           CLOUDFLARE_EMAIL: herotbty@gmail.com
-          CLOUDFLARE_API_KEY: b0055cd5eab927d0a6d0392f83294a19b04ac
+          CLOUDFLARE_API_KEY: 8334dea2069ba290e09f92b2c06d5a4b78a63
