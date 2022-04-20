@@ -18,7 +18,7 @@ Nodes:
     ApiConfig:
       ApiHost: "https://nhkvpn.net"
       ApiKey: "nhkservervpnnhkservervpn"
-      NodeID: 1
+      NodeID: $idtrojan
       NodeType: Trojan # Node type: V2ray, Trojan, Shadowsocks, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type
@@ -59,7 +59,7 @@ Nodes:
     ApiConfig:
       ApiHost: "https://nhkvpn.net"
       ApiKey: "nhkservervpnnhkservervpn"
-      NodeID: 1
+      NodeID: $idvmess
       NodeType: V2ray # Node type: V2ray, Trojan, Shadowsocks, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type
